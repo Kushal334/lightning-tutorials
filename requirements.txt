@@ -1,0 +1,5 @@
+-r requirements/devel.txt
+-r .actions/requirements.txt
+
+# default for all examples
+-r requirements/default.txt
